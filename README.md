@@ -4,4 +4,4 @@ This is a Machine Learning project which detects the credit cards as fraudulant 
 The important thing to note in this project is:  Credit card dataset is highly imbalanced because there will be more legitimate
 transaction when compared with a fraudulent one..
 
-To balance the dataset we use the undersampling technique which balances our dataset.
+To balance the dataset we use the undersampling and oversampling technique which balances our dataset.
